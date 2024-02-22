@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/nari322/static/css/main.7784ee36.css",
-    "main.js": "/nari322/static/js/main.daa55d6f.js",
+    "main.css": "/nari322/static/css/main.6799b28b.css",
+    "main.js": "/nari322/static/js/main.71a3e214.js",
     "static/js/592.6c69f7d4.chunk.js": "/nari322/static/js/592.6c69f7d4.chunk.js",
-    "static/media/narii.jpg": "/nari322/static/media/narii.a5e9be8c842711dbdf91.jpg",
-    "static/media/logo.svg": "/nari322/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/nari322/index.html",
-    "main.7784ee36.css.map": "/nari322/static/css/main.7784ee36.css.map",
-    "main.daa55d6f.js.map": "/nari322/static/js/main.daa55d6f.js.map",
+    "main.6799b28b.css.map": "/nari322/static/css/main.6799b28b.css.map",
+    "main.71a3e214.js.map": "/nari322/static/js/main.71a3e214.js.map",
     "592.6c69f7d4.chunk.js.map": "/nari322/static/js/592.6c69f7d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7784ee36.css",
-    "static/js/main.daa55d6f.js"
+    "static/css/main.6799b28b.css",
+    "static/js/main.71a3e214.js"
   ]
 }
